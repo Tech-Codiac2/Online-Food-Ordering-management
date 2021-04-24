@@ -11,3 +11,5 @@ for the paytm integration part you have to use your own test credentials in the 
 
 for admin part username and password is amal and amal
 you can register as a new customer for that part
+
+for database create a database named proj and import the sql file in your xampp server
