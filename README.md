@@ -7,3 +7,7 @@ http://localhost:8080/projj/index.php
 
 
 for the paytm integration part you have to use your own test credentials in the config-paytm file
+
+
+for admin part username and password is amal and amal
+you can register as a new customer for that part
